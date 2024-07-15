@@ -1,4 +1,4 @@
-# Gredit
+# Greddit
 
 ## Overview
 
