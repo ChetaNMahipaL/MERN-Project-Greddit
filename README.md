@@ -2,7 +2,7 @@
 
 ## Overview
 
-Gredit is a MERN (MongoDB, Express.js, React, Node.js) stack application inspired by Reddit. It includes features such as user authentication, post creation, commenting, upvoting/downvoting, and more. The application is containerized using Docker for easy deployment and scaling.
+Greddit is a MERN (MongoDB, Express.js, React, Node.js) stack application inspired by Reddit. It includes features such as user authentication, post creation, commenting, upvoting/downvoting, and more. The application is containerized using Docker for easy deployment and scaling.
 
 ## Features
 
