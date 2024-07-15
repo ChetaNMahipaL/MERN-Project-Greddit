@@ -31,26 +31,21 @@ Gredit is a MERN (MongoDB, Express.js, React, Node.js) stack application inspire
 - Docker
 
 ### Backend Setup
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/gredit.git
-    cd gredit
-    ```
 
-2. Install dependencies:
+1. Install dependencies:
     ```bash
     cd backend
     npm install
     ```
 
-3. Create a `.env` file in the `backend` directory and add the following:
+2. Create a `.env` file in the `backend` directory and add the following:
     ```env
     PORT=5000
     MONGO_URI=your_mongodb_uri
     JWT_SECRET=your_jwt_secret
     ```
 
-4. Start the backend server:
+3. Start the backend server:
     ```bash
     npm run dev
     ```
